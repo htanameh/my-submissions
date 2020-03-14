@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/reduced-string/problem
+
 function superReducedString(s) {
   const str = s.split('').reduce((acc, item) => {
     if (acc.length && acc[acc.length - 1] === item) {
