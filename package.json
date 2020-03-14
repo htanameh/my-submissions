@@ -1,0 +1,25 @@
+{
+  "name": "my-submissions",
+  "version": "1.0.0",
+  "description": "My submissions for hackerranl, leetcode etc..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htanameh/my-submissions.git"
+  },
+  "author": "Hemanath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htanameh/my-submissions/issues"
+  },
+  "homepage": "https://github.com/htanameh/my-submissions#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1"
+  }
+}
